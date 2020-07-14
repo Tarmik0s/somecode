@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($int1 + $int2))
 echo "$NUMBER"
-echo "This was adsgd"
+echo "This was adasgd"
 
