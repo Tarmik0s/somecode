@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "getting script from github"
+echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "done"
+echo "This was added"
